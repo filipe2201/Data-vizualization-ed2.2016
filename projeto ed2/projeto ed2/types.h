@@ -1,8 +1,9 @@
 #ifndef ESTRUTURAS
 #define ESTRUTURAS
 typedef struct no{
-	int num;
+	int n;
 	struct no *prox;
+	struct no*ant;
 }no;
 typedef no *stack;
 

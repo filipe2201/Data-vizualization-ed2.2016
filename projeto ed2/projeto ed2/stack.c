@@ -7,7 +7,7 @@
 void empilhar(stack *s, int num){
 	no *aux;
 	aux = (no*)malloc(sizeof(no));
-	aux->num = num;
+	aux->n = num;
 	aux->prox = *s;
 	*s = aux;
 }
@@ -33,7 +33,7 @@ int isfull(stack s){
 }
 int top(stack s){
 	int valor;
-	valor = s->num;
+	valor = s->n;
 	return valor;
 }
 void destroy(stack *pdl){
