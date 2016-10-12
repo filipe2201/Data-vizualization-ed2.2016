@@ -11,11 +11,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ListaCircular.h" />
+    <ClInclude Include="ListaDuplamente.h" />
+    <ClInclude Include="ListaSimples.h" />
     <ClInclude Include="queue.h" />
     <ClInclude Include="stack.h" />
     <ClInclude Include="types.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ListaCircular.c" />
+    <ClCompile Include="ListaDuplamente.c" />
     <ClCompile Include="ListaSimples.c" />
     <ClCompile Include="queue.c" />
     <ClCompile Include="stack.c" />

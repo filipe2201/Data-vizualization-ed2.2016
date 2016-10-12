@@ -24,6 +24,15 @@
     <ClInclude Include="queue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ListaCircular.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaDuplamente.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaSimples.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stack.c">
@@ -33,6 +42,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ListaSimples.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaDuplamente.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaCircular.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
