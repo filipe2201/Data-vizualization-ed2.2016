@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1478193900 source:c:\users\aluno\desktop\projeto ed2\projeto ed2\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1478192883 c:\users\aluno\desktop\projeto ed2\projeto ed2\types.h
+
+1478194044 source:c:\users\aluno\desktop\projeto ed2\projeto ed2\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1478191823 source:c:\users\aluno\desktop\projeto ed2\projeto ed2\listacircular.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1478191823 source:c:\users\aluno\desktop\projeto ed2\projeto ed2\listaduplamente.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1478191823 source:c:\users\aluno\desktop\projeto ed2\projeto ed2\listasimples.c
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+
+1353751060 source:c:\users\aluno\desktop\projeto ed2\projeto ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1478191823 source:c:\users\aluno\desktop\projeto ed2\projeto ed2\queue.c
+	"types.h"
+	<stdlib.h>
+
+1478191823 source:c:\users\administrador.000\desktop\college\codes\projeto ed2\listacircular.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1478284458 c:\users\administrador.000\desktop\college\codes\projeto ed2\types.h
+	<stdio.h>
+	<stdlib.h>
+
+1478191823 source:c:\users\administrador.000\desktop\college\codes\projeto ed2\listaduplamente.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1478191823 source:c:\users\administrador.000\desktop\college\codes\projeto ed2\listasimples.c
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+
+1353751060 source:c:\users\administrador.000\desktop\college\codes\projeto ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1478191823 source:c:\users\administrador.000\desktop\college\codes\projeto ed2\queue.c
+	"types.h"
+	<stdlib.h>
+
+1478194053 source:c:\users\administrador.000\desktop\college\codes\projeto ed2\stack.c
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+

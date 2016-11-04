@@ -45,3 +45,4 @@ void destroy(stack *pdl){
 		free(aux);
 
 	}
+}
